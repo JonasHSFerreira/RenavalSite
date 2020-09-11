@@ -3873,10 +3873,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		.inner{
-background-color: rgba(192,192,192,0.5);
-border-radius: 2;
-}
+		
 		background-attachment: fixed;
 		background-image: url("images/10552.jpg");
 		background-position: top right;
@@ -3911,3 +3908,7 @@ border-radius: 2;
 			}
 
 		}
+.inner{
+background-color: rgba(192,192,192,0.5);
+border-radius: 2;
+}
